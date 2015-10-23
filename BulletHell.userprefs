@@ -1,13 +1,6 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PickUpRotate.cs">
-    <Files>
-      <File FileName="Assets\PlayerController.cs" Line="257" Column="3" />
-      <File FileName="Assets\Player2Controller.cs" Line="22" Column="32" />
-      <File FileName="Assets\Scripts\PickUpRotate.cs" Line="51" Column="6" />
-      <File FileName="Assets\Scripts\CubeController.cs" Line="144" Column="4" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
